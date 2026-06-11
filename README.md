@@ -32,7 +32,6 @@ A terminal-based to-do list manager to add, update, delete and view your daily t
 ---
 
 ## 4. Screenshot
-<!-- upload your screenshot and replace the link below -->
 <img width="944" height="1296" alt="Image" src="https://github.com/user-attachments/assets/d4b17e96-f9c0-46f5-890d-c81d775028c9" />
 
 ---
