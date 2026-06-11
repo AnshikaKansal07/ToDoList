@@ -7,7 +7,7 @@ for i in range(0, num):
 print("Today's tasks are",task)
 
 while True:
-    oper=int(input("Enter \n1-Add a new task\n2-Update an existing task\n3-Delete an existing task\n4-View all the tasks\n5-Exit program\nSo what do you want to do? ")).lower()
+    oper=int(input("Enter \n1-Add a new task\n2-Update an existing task\n3-Delete an existing task\n4-View all the tasks\n5-Exit program\nSo what do you want to do? "))
     if oper==1:
         add=input("What task to add? ").lower()
         task.append(add)
